@@ -5,3 +5,6 @@ This repo contains analysis on MIMIC 3 dataset for my AI in Health class. MIMIC-
     - [Notebook](/viz.ipynb)
 
 
+2. Text analysis of NOTEVENTS table from the dataset
+    - [Presentation](https://www.canva.com/design/DAGjPqdIEqg/-G3pmmQeYOaMtAauVji04g/edit?utm_content=DAGjPqdIEqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+    - [Notebook](/nlp.ipynb)
