@@ -8,3 +8,7 @@ This repo contains analysis on MIMIC 3 dataset for my AI in Health class. MIMIC-
 2. Text analysis of NOTEVENTS table from the dataset
     - [Presentation](https://www.canva.com/design/DAGjPqdIEqg/-G3pmmQeYOaMtAauVji04g/edit?utm_content=DAGjPqdIEqg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
     - [Notebook](/nlp.ipynb)
+
+3. ML model on mortality prediction based on patient age, length of stay, and lab test values (sodium, blood glucose, potassium, calcium)
+    - [Presentation](https://docs.google.com/presentation/d/1jy0yu8dxaDA-Hml9KsEoHUI9I6RxptEi5pzX0pok1y8/edit?usp=sharing)
+    - [Notebook](/ml_model.ipynb)
