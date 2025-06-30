@@ -1,7 +1,7 @@
 This repo contains analysis on MIMIC 3 dataset for my AI in Health class. MIMIC-III is a large, de-identified clinical database containing comprehensive health data from over 40,000 critical care patients at Beth Israel Deaconess Medical Center from 2001-2012. 
 
 1. Visualization of the dataset
-    - [Presentation](https://tome.app/we-1e8/mimic-3-cm79xw2xq0n7b10rmmado4g6h)
+    - [Presentation](https://www.canva.com/design/DAGhu4pWKEw/FpdM40qKtTIPgpEfrQrxdQ/view?utm_content=DAGhu4pWKEw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1aef17b984)
     - [Notebook](/viz.ipynb)
   
 2. SQL queries to analyze key healthcare metrics, including mortality rates, admission trends, and demographic statistics such as patient race and ethnicity
